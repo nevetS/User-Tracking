@@ -17,3 +17,8 @@ The script will track users for as long as it is actively running.  This is typi
 there is no activity in the early hours of the morning.  Sometimes it will live for a few days.
 
 The script runs on Google App Engine.
+
+The code that does all the work is in Main.py.
+
+It's placed here publicly so that it can be reviewed by anybody to ensure we are not doing anything 
+nefarious with end user information.
